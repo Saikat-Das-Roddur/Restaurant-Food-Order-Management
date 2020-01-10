@@ -1,0 +1,13 @@
+/*
+ * Copyright (c)
+ * Author : Saikat Das
+ * Created on : 10/22/19 8:00 PM
+ * All rights reserved
+ */
+
+
+package View;
+
+public interface ComboBoxListener {
+    public void refreshEventOccurred();
+}
